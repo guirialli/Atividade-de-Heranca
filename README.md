@@ -9,7 +9,7 @@
  
  3. crie umma classe derivada de: Conta_Especial(aquela que tem o cheque especial) e  Conta_Joy (para pessoas com menos de 18).
  
- ### Class Method
+ ### Metodos de Classe
   0. pré requsitos: entre de cliente insira: nome: string, data_nascimento: string (mask: YYYY/MM/DD), cpf: string (só numeros).
   
   1. crie uma funçao do tipo class method, onde ela devolvera uma data na mascara YYYY/MM/DD e receberá uma data do tipo datetime.now()
